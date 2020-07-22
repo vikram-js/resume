@@ -1,1 +1,6 @@
-index.html  index.php
+[[redirects]]
+  from = "index.html"
+  to = "index.php"
+  status = 200
+  force = true
+  signed = "API_SIGNATURE_TOKEN"
